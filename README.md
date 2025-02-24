@@ -1,6 +1,6 @@
 # Hi, I'm Aurélien Perez 👋
 
-I’m a student in the **MSc Probability and Finance** program at **Sorbonne University** and **École Polytechnique** (formerly **DEA El Karoui**), and an **Associate Actuary** at the French Institute of Actuaries.
+I’m a student in the [**MSc Probability and Finance**](https://finance.math.upmc.fr/en/) program at **Sorbonne University** and **École Polytechnique** (formerly **DEA El Karoui**), and an **Associate Actuary** at the [French Institute of Actuaries](https://www.institutdesactuaires.com).
 
 ## 🚀 Interests
 
